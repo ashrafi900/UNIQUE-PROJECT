@@ -1,0 +1,263 @@
+
+
+
+/* .mega_menu{
+    display:none;
+    background: hsla(325, 19%, 88%, 0.69);
+    width: 100vw;
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
+    padding: 50px;
+    gap: 50px;
+    justify-content: space-evenly;
+
+
+}
+.mega_has:hover .mega_menu{
+    display: flex;
+}
+.mega_menu_container h3{
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-size: bold;
+    border-bottom:  4px solid slateblue;
+} */
+/* .slick-track:before, .slick-track:after {
+    content: "";
+    display: table;
+}body {
+    font-family: "rival-sans";
+    color: #0c1118;
+    font-size: 1rem;
+    line-height: 160%;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    box-sizing: border-box;
+    background-color: #f7f8f6;
+} */
+
+
+/* .slick-prev::before,
+.slick-next::before {
+    color:white ;
+    font-size: 2.5rem;
+}
+
+.slick-prev,
+.slick-next {
+    width: 2.5rem;
+    height: 2.5rem;
+    z-index: 2;
+}
+
+.slick-list {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.slick-prev {
+    left: 0;
+}
+
+.slick-next {
+    right: 200px; */
+
+
+/* 
+
+
+
+.trusted_by_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .trusted_by_div h1{
+    font-size: 50px;
+    color: #1d1e1b;
+    margin-top: 40px;
+    margin-left: 50px;
+ 
+ }
+ .trusted_by_div p{
+    font-size: 40px;
+    color: #191b1c;
+ }
+ .trusted_by_div hr{
+    border: 2px solid red;
+    width: 13%;
+    margin-top: 6px;
+ }
+ .trusted_by_img{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+ }
+ 
+  .trusted_by_bg_img{
+ background: url(./grilled-chicken-wings.avif);
+ height: 800px;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin-top: 40px;
+ }
+   .trusted_by_bg_img_transparent{
+     background-color:transparent;
+     height: 400px;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-left: 300px;
+    margin-top: 40px;
+    
+ }   
+  .trusted_by_slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin: 50px;
+ } 
+  .trusted_slider h1{
+    font-size: 100px;
+    color: #56a425;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -100px;
+ } 
+  .trusted_by_slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 200px;
+    margin-top: 50px;
+ } 
+  .trusted_by_slider h1{
+    font-size: 100px;
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+ } 
+  .trusted_by_slider p{
+    font-size: 40px;
+    color: white;
+    width: 500px;
+    
+    margin-left: 200px;
+ } 
+  .text_class{
+    display: flex;
+ }
+ .slick-prev::before,
+ .slick-next::before {
+     color:white;
+     font-size: 2.5rem;
+ }
+ 
+ .slick-prev,
+ .slick-next {
+     width: 2.5rem;
+     height: 2.5rem;
+     z-index: 2;
+ }
+ 
+ .slick-list {
+     width: 95%;
+     margin: 0 auto;
+ }
+ 
+ .slick-prev {
+     left: 200px;
+    
+    
+ } */
+/*  
+ .slick-next {
+     right: 200px;
+     
+    
+ }
+
+ 
+
+.background-written {
+    background: url(./reataurent-img/background-written.webp) no-repeat;
+    width:100% ;
+    height:500px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; */
+ 
+/*  
+ .written-transparent {
+    width: 100%;
+    height: 500px;
+    background: rgba(0, 0, 0, 0.74);
+ }
+ 
+ 
+ .written-paragraph {
+    width:800px;
+    margin:50px auto;
+ } */
+ 
+/*  
+ .written-paragraph .comma {
+    height:50px;
+    width:50px;
+    margin-left:50%;
+    margin-top: 80px;
+ }
+ 
+ .background-written .written-paragraph .paragraph-slider p {
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Dancing Script", cursive;
+    text-align:center;
+    margin-top: 50px;
+ }
+  */ 
+
+  /* .three{
+    position: relative;
+ }
+ .three_3{
+    position: absolute;
+    background: ghostwhite;
+    color: white;
+    width: 200px;
+    display: none;
+    font-size: 20px;
+ }
+ .three:hover .three_3{
+    display: block;
+ } */
+
+
+ /* .first {
+    position: relative;
+    font-family: roboto;
+    font-style: italic;
+    /* padding: 5px; */
+
+
+/* 
+
+
+
+.second {
+    position: absolute;
+    top: 40px;
+    width: 250px;
+    /* background: #5199ad; */
+   
